@@ -1,0 +1,6 @@
+org/example/serialize/impl/JSONSerializer.class
+org/example/serialize/Serializer.class
+org/example/HttpHelloWorldServerHandler.class
+org/example/pojo/User.class
+org/example/HttpHelloWorldServer.class
+org/example/HttpHelloWorldServerInitializer.class
